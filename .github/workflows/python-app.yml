@@ -28,4 +28,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest Main_project_folder/test_calculator.py  # Adjust the path as necessary
+          pytest test_calculator.py  # Adjust the path as necessary
